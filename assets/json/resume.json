@@ -83,7 +83,7 @@
     }
   ],
 
-  "publications": [
+  "_publications": [
     {
       "name": "Investigating quantitatively the root causes of non-implementation of public surveying performance review and deriving institutional improvement measures",
       "publisher": "Journal of the Korean Society of Surveying, Geodesy, Photogrammetry and Cartography",
