@@ -1,24 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: >
- <p>Ph.D. Student in Geography <br> <a href='https://geoearth.charlotte.edu/'>Department of Earth, Environmental and Geographical Sciences</a>, <a href='https://www.charlotte.edu/'>The University of North Carolina at Charlotte</a>.</p>
+subtitle: Ph.D. Student in Geography <br> <a href='https://geoearth.charlotte.edu/'>Department of Earth, Environmental and Geographical Sciences</a> <br> <a href='https://www.charlotte.edu/'>The University of North Carolina at Charlotte</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>9201 University City Blvd.</p>
-    <p>Charltote, NC 28223</p>
+  more_info: 
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Yunsik Kim is a PhD student in the Geography program at the University of North Carolina at Charlotte.
+Yunsik Kim is a PhD student in the Geography program at the University of North Carolina at Charlotte. He holds a B.A. in Geography Education (2021) and a Master of Geography (2023) from Dongguk University in Seoul, South Korea.
+
+Yunsik's research area includes Geographic Information Science (GIScience).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
