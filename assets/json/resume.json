@@ -29,6 +29,20 @@
     ]
   },
 
+  "interests": [
+    {
+      "name": "Geographic Information Sciences (GISciences)",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Spatial accessibility in public health",
+        "Geospatial AI (GeoAI)",
+        "Human mobility pattern",
+        "Spatiotemporal analysis",
+        "Urban analytics"
+      ]
+    }
+  ],
+
   "education": [
     {
       "institution": "University of North Carolina at Charlotte",
@@ -58,12 +72,88 @@
 
   "experience": [
     {
+      "name": "Department of Earth, Environmental and Geographical Sciences, University of North Carolina at Charlotte",
+      "position": "Graduate Research Assistant",
+      "startDate": "2024-08",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "name": "Department of Environmental & Biological Chemistry, Chungbuk National University, Cheongju, South Korea",
+      "position": "Administrative Assistant",
+      "startDate": "2024-03",
+      "endDate": "2024-06",
+      "summary": ""
+    },
+    {
+      "name": "Department of Natural Sciences, University of West Georgia",
+      "position": "Visiting Scholar",
+      "startDate": "2022-08",
+      "endDate": "2023-03",
+      "summary": ""
+    },
+    {
+      "name": "Department of Geography, Dongguk University, Seoul, South Korea",
+      "position": "Graduate Research and Teaching Assistant",
+      "startDate": "2021-09",
+      "endDate": "2023-08",
+      "summary": ""
+    },
+    {
+      "name": "Department of Geography Education, Dongguk University, Seoul, South Korea",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2019-09",
+      "endDate": "2021-08",
+      "summary": ""
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "First Place",
+      "date": "2024-11",
+      "awarder": "Presentation Competition on GIS Day 2024, University of North Carolina at Charlotte",
+      "url": "https://geoearth.charlotte.edu/2024/11/21/unc-charlotte-celebrates-gis-day-2024/"
+    },
+    {
+      "title": "Distinguished Service Award",
+      "date": "2024-06",
+      "awarder": "The Korean Geographical Society"
+    },
+    {
+      "title": "Young Geographers Award-Best Paper",
+      "date": "2023-10",
+      "awarder": "The 15th Korea-China-Japan Joint Conference on Geography"
+    },
+    {
+      "title": "Geospatial Information Workforce Development Scholarship",
+      "date": "2021-09",
+      "awarder": "Ministry of Land, Infrastructure, and Transport of Korean Government",
+      "summary": "Research grant including full-tuition (Fall 2021-Spring 2023)"
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency",
+      "icon": ""
+    },
+    {
+      "language": "Korean",
+      "fluency": "Native speaker",
+      "icon": ""
+    }
+  ],
+
+  "_experience": [
+    {
       "name": "University of North Carolina at Charlotte",
       "position": "Graduate Research Assistant",
       "startDate": "2024-08",
       "endDate": "",
       "summary": "Research Assistant",
-      "highlights": ["Relativity"]
+      "highlights": ["highlights"]
     }
   ],
 
@@ -107,16 +197,6 @@
     }
   ],
 
-  "_awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-
   "certificates": [
     {
       "name": "Teacher's Certificate, the Secondary School Teacher (Grade II) of Geography",
@@ -135,34 +215,6 @@
       "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Professional working proficiency",
-      "icon": ""
-    },
-    {
-      "language": "Korean",
-      "fluency": "Native speaker",
-      "icon": ""
-    }
-  ],
-
-  "_interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
