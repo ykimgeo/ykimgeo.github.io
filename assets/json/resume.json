@@ -2,26 +2,62 @@
   "basics": {
     "name": "Yunsik Kim",
     "position": "Ph.D. Student",
-    "image": "",
-    "email": "ykim89@charlotte.edu",
-    "_phone": "(912) 123-4567",
-    "_url": "https://alshedivat.github.io/al-folio/",
-    "_summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "9201 University City Blvd",
-      "postalCode": "NC 28223",
-      "city": "Charlotte",
-      "countryCode": "US",
-      "region": "North Carolina"
-    },
-    "_profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "ykim89@charlotte.edu"
   },
+  
+    "_basics": {
+      "name": "Yunsik Kim",
+      "position": "Ph.D. Student",
+      "image": "",
+      "email": "ykim89@charlotte.edu",
+      "_phone": "(912) 123-4567",
+      "_url": "https://alshedivat.github.io/al-folio/",
+      "_summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+      "location": {
+        "address": "9201 University City Blvd",
+        "postalCode": "NC 28223",
+        "city": "Charlotte",
+        "countryCode": "US",
+        "region": "North Carolina"
+      },
+      "_profiles": [
+        {
+          "network": "Twitter",
+          "username": "AlbertEinstein",
+          "url": "https://twitter.com/AlbertEinstein"
+        }
+      ]
+    },
+
+    "education": [
+      {
+        "institution": "University of North Carolina at Charlotte",
+        "location": "Charlotte, NC, USA",
+        "area": "Department of Earth, Environmental and Geographical Sciences",
+        "studyType": "PhD in Geography",
+        "startDate": "2024-08-01",
+        "endDate": ""
+      },
+  
+      {
+        "institution": "Dongguk University",
+        "location": "Seoul, South Korea",
+        "area": "Department of Geography",
+        "studyType": "Master of Geography",
+        "startDate": "2021-09-01",
+        "endDate": "2023-08-01"
+      },
+  
+      {
+        "institution": "Dongguk University",
+        "location": "Seoul, South Korea",
+        "area": "Department of Geography Education",
+        "studyType": "Bachelor of Arts in Geography Education",
+        "startDate": "2016-03-01",
+        "endDate": "2023-08-01"
+      }
+    ],
+
   "_work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -33,6 +69,7 @@
       "highlights": ["Relativity"]
     }
   ],
+
   "_volunteer": [
     {
       "organization": "People's Climate March",
@@ -45,19 +82,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
-    {
-      "institution": "University of North Carolina at Charlotte",
-      "location": "Charlotte, NC, USA",
-      "_url": "https://www.uzh.ch/",
-      "area": "Department of Earth, Environmental and Geographical Sciences",
-      "studyType": "PhD in Geography",
-      "startDate": "2024-08-01",
-      "endDate": "",
-      "_score": "10",
-      "_courses": ["Theory of Relativity"]
-    }
-  ],
+
   "_awards": [
     {
       "title": "Nobel Prize in Physics",
@@ -67,6 +92,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
+
   "_certificates": [
     {
       "name": "Machine Learning",
@@ -111,6 +137,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
+
   "_publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -134,6 +161,7 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
+
   "_skills": [
     {
       "name": "Physics",
@@ -149,6 +177,7 @@
       ]
     }
   ],
+
   "_languages": [
     {
       "language": "German",
@@ -161,6 +190,7 @@
       "icon": ""
     }
   ],
+
   "_interests": [
     {
       "name": "Physics",
@@ -175,6 +205,7 @@
       ]
     }
   ],
+
   "_references": [
     {
       "name": "Professor John Doe",
@@ -187,6 +218,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
+
   "_projects": [
     {
       "name": "Quantum Computing",
