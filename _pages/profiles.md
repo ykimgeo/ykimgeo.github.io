@@ -14,15 +14,15 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>The University of North Carolina at Charlotte</p>
+      <p>9201 University City Blvd.</p>
+      <p>Charlotte, NC 28223</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>The University of North Carolina at Charlotte</p>
+      <p>9201 University City Blvd.</p>
+      <p>Charlotte, NC 28223</p>
 ---

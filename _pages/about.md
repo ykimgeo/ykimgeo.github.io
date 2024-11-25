@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://geoearth.charlotte.edu/'>Department of Earth, Environmental and Geographical Sciences</a>, <a href='https://www.charlotte.edu/'>The University of North Carolina at Charlotte</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>The University of North Carolina at Charlotte</p>
+    <p>9201 University City Blvd.</p>
+    <p>Charltote, NC 28223</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
