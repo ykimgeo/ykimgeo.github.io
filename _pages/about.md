@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
- <p>Ph.D. Student in Geography</p>
- <p><a href='https://geoearth.charlotte.edu/'>Department of Earth, Environmental and Geographical Sciences</a>, <a href='https://www.charlotte.edu/'>The University of North Carolina at Charlotte</a>.</p>
+ <p>Ph.D. Student in Geography <br> <a href='https://geoearth.charlotte.edu/'>Department of Earth, Environmental and Geographical Sciences</a>, <a href='https://www.charlotte.edu/'>The University of North Carolina at Charlotte</a>.</p>
 
 profile:
   align: right
