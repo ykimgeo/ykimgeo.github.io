@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Yunsik Kim",
-    "position": "Ph.D. Student",
+    "position": "Ph.D. Student, Graduate Research Assistant",
     "email": "ykim89@charlotte.edu"
   },
   
@@ -54,7 +54,7 @@
         "area": "Department of Geography Education",
         "studyType": "Bachelor of Arts in Geography Education",
         "startDate": "2016-03-01",
-        "endDate": "2023-08-01"
+        "endDate": "2021-08-01"
       }
     ],
 
@@ -83,6 +83,33 @@
     }
   ],
 
+  "publications": [
+    {
+      "name": "Investigating quantitatively the root causes of non-implementation of public surveying performance review and deriving institutional improvement measures",
+      "publisher": "Journal of the Korean Society of Surveying, Geodesy, Photogrammetry and Cartography",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.7848/ksgpc.2024.42.3.213"
+    },
+    {
+      "name": "Prediction of traffic congestion using a time-series model and spatiotemporal big data: A case study of the Atlanta Downtown Connector",
+      "publisher": "The Geographical Bulletin",
+      "releaseDate": "2023",
+      "url": "https://digitalcommons.kennesaw.edu/thegeographicalbulletin/vol64/iss2/7"
+    },
+    {
+      "name": "Extracting urban areas of interest using HDBSCAN clustering method",
+      "publisher": "Journal of the Korean Cartographic Association",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.16879/jkca.2023.23.1.067"
+    },
+    {
+      "name": "Measuring traffic congestion with novel metrics: A case study of six U.S. metropolitan areas",
+      "publisher": "ISPRS International Journal of Geo-Information",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.3390/ijgi12030130"
+    }
+  ],
+
   "_awards": [
     {
       "title": "Nobel Prize in Physics",
@@ -93,72 +120,16 @@
     }
   ],
 
-  "_certificates": [
+  "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Teacher's Certificate, the Secondary School Teacher (Grade II) of Geography",
+      "date": "2021",
+      "issuer": "Ministry of Education of Korean Government"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-
-  "_publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Engineer Surveying Geo-Spatial Information",
+      "date": "2021",
+      "issuer": "Human Resources Development Service of Korea"
     }
   ],
 
@@ -178,15 +149,15 @@
     }
   ],
 
-  "_languages": [
+  "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Professional working proficiency",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Korean",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
