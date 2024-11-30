@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Yunsik Kim is a PhD student in the Geography program at the University of North Carolina at Charlotte. He holds his bachelor's and master's degree from <a href='https://geoedu.dongguk.edu/'>Dongguk University</a> in Seoul, South Korea.
+Yunsik Kim is a PhD student in the Geography program at the University of North Carolina at Charlotte. He completed his bachelor's and master's degrees at <a href='https://geoedu.dongguk.edu/'>Dongguk University</a> in Seoul, South Korea.
 
 Yunsik's major research areas include geographic information science (GIScience), health geography, human mobility, urban transportation, and geospatial artificial intelligence (GeoAI). Yunsik employs a range of mathematical and AI methods (e.g., spatial statistics and machine/deep learning techniques) and deals with spatiotemporal big data (e.g., geotagged social media, GPS, and LiDAR data). By developing and synthesizing geospatial methods and technologies, his research goals aim to address diverse geographic topics, making urban environments efficient, equitable, and sustainable.
 
