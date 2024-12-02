@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Yunsik Kim is a PhD student in the Geography program at the University of North Carolina at Charlotte. He completed his bachelor's and master's degrees at <a href='https://geoedu.dongguk.edu/'>Dongguk University</a> in Seoul, South Korea.
 
-Yunsik's major research areas include geographic information science (GIScience), health geography, human mobility, urban transportation, and geospatial artificial intelligence (GeoAI). Yunsik employs a range of mathematical and AI methods (e.g., spatial statistics and machine/deep learning techniques) and deals with spatiotemporal big data (e.g., geotagged social media, GPS, and LiDAR data). By developing and synthesizing geospatial methods and technologies, his research goals aim to address diverse geographic topics, making urban environments efficient, equitable, and sustainable.
+Yunsik's major research areas include geographic information science (GIScience), health geography, human mobility, urban transportation, and geospatial artificial intelligence (GeoAI). He employs a range of mathematical and AI methods (e.g., spatial statistics and machine/deep learning techniques) and deals with spatiotemporal big data (e.g., geotagged social media, GPS, and LiDAR data). By developing and synthesizing geospatial methods and technologies, his research goals aim to address diverse geographic topics, making urban environments efficient, equitable, and sustainable.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
