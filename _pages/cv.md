@@ -4,8 +4,10 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: CV_YunsikKim.pdf
-description: # This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+<object data="/assets/pdf/CV_YunsikKim.pdf" type="application/pdf" width="800px" height="1000px">
+    <embed src="/assets/pdf/CV_YunsikKim.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it.</p>
+    </embed>
+</object>
