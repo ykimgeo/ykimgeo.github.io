@@ -34,7 +34,7 @@
       "name": "Geographic Information Sciences (GISciences)",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Spatial accessibility in public health",
+        "Spatial accessibility in modeling",
         "Geospatial AI (GeoAI)",
         "Human mobility pattern",
         "Spatiotemporal analysis",
@@ -45,7 +45,7 @@
 
   "education": [
     {
-      "institution": "University of North Carolina at Charlotte",
+      "institution": "The University of North Carolina at Charlotte",
       "location": "Charlotte, NC, USA",
       "url": "https://geoearth.charlotte.edu/",
       "area": "Department of Earth, Environmental and Geographical Sciences",
@@ -75,7 +75,7 @@
 
   "experience": [
     {
-      "name": "Department of Earth, Environmental and Geographical Sciences, University of North Carolina at Charlotte",
+      "name": "Department of Earth, Environmental and Geographical Sciences, The University of North Carolina at Charlotte",
       "position": "Graduate Research Assistant",
       "startDate": "2024-08",
       "endDate": "",
@@ -113,10 +113,14 @@
 
   "awards": [
     {
+      "title": "Second Place",
+      "date": "2025-11",
+      "awarder": "Graduate Lightning Talk Competition on GIS Day 2025, The University of North Carolina at Charlotte"
+    },
+    {
       "title": "First Place",
       "date": "2024-11",
-      "awarder": "Presentation Competition on GIS Day 2024, University of North Carolina at Charlotte",
-      "url": "https://geoearth.charlotte.edu/2024/11/21/unc-charlotte-celebrates-gis-day-2024/"
+      "awarder": "Presentation Competition on GIS Day 2024, The University of North Carolina at Charlotte"
     },
     {
       "title": "Certificate of Appreciation",
